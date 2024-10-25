@@ -174,6 +174,8 @@ SET @ErrorMessage = ERROR_MESSAGE()
 RAISERROR (@ErrorMessage, 16, 1)
 END CATCH
 ```
+# Image
+![image](https://github.com/user-attachments/assets/d232dfa7-1b7e-43b8-ba43-1259f861490a)
 
 
 # Findings 
